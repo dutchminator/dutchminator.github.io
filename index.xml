@@ -6,22 +6,9 @@
     <description>Recent content on Blog - Sebastiaan Candel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 14:49:56 +0200</lastBuildDate>
     
 	<atom:link href="https://sebastiaancandel.nl/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Mijn eerste post via quickstart</title>
-      <link>https://sebastiaancandel.nl/posts/my-first-post/</link>
-      <pubDate>Thu, 13 Aug 2020 14:49:56 +0200</pubDate>
-      
-      <guid>https://sebastiaancandel.nl/posts/my-first-post/</guid>
-      <description>Kan dit ook ergens verschijnen?
-Dit is een titel test Met een inleiding
-Dit is een tussenkopje Met verdere toelichting
-Gaaf hey.</description>
-    </item>
     
   </channel>
 </rss>
