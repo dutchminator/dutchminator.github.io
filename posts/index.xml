@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog - Sebastiaan Candel</title>
-    <link>https://dutchminator.github.io/posts/</link>
+    <link>https://sebastiaancandel.nl/posts/</link>
     <description>Recent content in Posts on Blog - Sebastiaan Candel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Aug 2020 14:49:56 +0200</lastBuildDate>
     
-	<atom:link href="https://dutchminator.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sebastiaancandel.nl/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mijn eerste post via quickstart</title>
-      <link>https://dutchminator.github.io/posts/my-first-post/</link>
+      <link>https://sebastiaancandel.nl/posts/my-first-post/</link>
       <pubDate>Thu, 13 Aug 2020 14:49:56 +0200</pubDate>
       
-      <guid>https://dutchminator.github.io/posts/my-first-post/</guid>
+      <guid>https://sebastiaancandel.nl/posts/my-first-post/</guid>
       <description>Kan dit ook ergens verschijnen?
 Dit is een titel test Met een inleiding
 Dit is een tussenkopje Met verdere toelichting
