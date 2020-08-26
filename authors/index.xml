@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Sebastiaan Candel</title>
+    <link>https://sebastiaancandel.nl/authors/</link>
+    <description>Recent content in Authors on Sebastiaan Candel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2020 17:04:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://sebastiaancandel.nl/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sebastiaan Candel</title>
+      <link>https://sebastiaancandel.nl/authors/sebastiaan-candel/</link>
+      <pubDate>Wed, 26 Aug 2020 17:04:21 +0200</pubDate>
+      
+      <guid>https://sebastiaancandel.nl/authors/sebastiaan-candel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

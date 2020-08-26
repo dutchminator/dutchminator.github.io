@@ -4,14 +4,31 @@
   
   <url>
     <loc>https://sebastiaancandel.nl/</loc>
+    <lastmod>2020-08-26T17:04:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sebastiaancandel.nl/categories/</loc>
+    <loc>https://sebastiaancandel.nl/authors/</loc>
+    <lastmod>2020-08-26T17:04:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sebastiaancandel.nl/tags/</loc>
+    <loc>https://sebastiaancandel.nl/post/introduction/</loc>
+    <lastmod>2020-08-26T17:04:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastiaancandel.nl/post/</loc>
+    <lastmod>2020-08-26T17:04:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastiaancandel.nl/authors/sebastiaan-candel/</loc>
+    <lastmod>2020-08-26T17:04:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastiaancandel.nl/about/</loc>
   </url>
   
 </urlset>
