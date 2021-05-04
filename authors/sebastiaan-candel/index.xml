@@ -6,10 +6,20 @@
     <description>Recent content on Sebastiaan Candel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Feb 2021 17:04:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 18:13:41 +0200</lastBuildDate>
     
 	<atom:link href="https://sebastiaancandel.nl/authors/sebastiaan-candel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>If data is the new oil, where is your industrial refinery?</title>
+      <link>https://sebastiaancandel.nl/post/what_is_mlops/</link>
+      <pubDate>Tue, 04 May 2021 18:13:41 +0200</pubDate>
+      
+      <guid>https://sebastiaancandel.nl/post/what_is_mlops/</guid>
+      <description>This article was originally written for Deloitte by myself and my colleague Erik Bookholt, as posted in this article.
+How DataOps and MLOps enable analytics at scale Back in 2006, Clive Humby coined the famous phrase “data is the new oil”, which was used to describe how data can be valuable. Fast forward to 2021 and many organizations have realized the role that (processed) data can play in gaining competitive advantage.</description>
+    </item>
     
     <item>
       <title>Introduction</title>
